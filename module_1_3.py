@@ -1,8 +1,8 @@
-cat = 'Cat'
-print (cat, type(cat))
-cat = 24
-print (cat, type(cat))
-cat = 21
-print (cat, type(cat))
+name = 'Ivan    '
+print (name)
+age = 24
+print (age)
+age = age + 6
+print (age)
 is_student = True
 print (is_student)
